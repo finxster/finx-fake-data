@@ -1,4 +1,6 @@
   {
+"wallets" : [
+{
     "createdBy": "admin",
     "createdDate": "2020-03-19T11:25:36.962210Z",
     "lastModifiedBy": "system",
@@ -15,5 +17,8 @@
     "evomAccountPhoneNumber": "+55 41 98100 1222",
     "evomAccountDocumentNumber": "167.990.111-11",
     "activeIdentificationMethodId": 1255
+
+}
+]
   },
 
