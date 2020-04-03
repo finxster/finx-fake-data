@@ -1,24 +1,28 @@
-  {
-"wallets" : [
 {
-    "createdBy": "admin",
-    "createdDate": "2020-03-19T11:25:36.962210Z",
-    "lastModifiedBy": "system",
-    "lastModifiedDate": "2020-03-19T12:06:02.647989Z",
-    "id": 1205,
-    "walletUuid": "073f7426-5073-445c-ba70-b2d45de40b1a",
-    "walletType": "REGULAR",
-    "walletStatus": "ENABLED",
-    "balance": 2000,
-    "detail": "Bla bla bla",
-    "evomAccountId": 1105,
-    "evomAccountName": "Renato Souza",
-    "evomAccountEmail": "renato@teste.com",
-    "evomAccountPhoneNumber": "+55 41 98100 1222",
-    "evomAccountDocumentNumber": "167.990.111-11",
-    "activeIdentificationMethodId": 1255
-
+  "wallets": [
+    {
+      "createdBy": "admin",
+      "createdDate": "2020-03-19T11:25:36.962210Z",
+      "lastModifiedBy": "system",
+      "lastModifiedDate": "2020-03-19T12:06:02.647989Z",
+      "id": 1205,
+      "walletUuid": "073f7426-5073-445c-ba70-b2d45de40b1a",
+      "walletType": "REGULAR",
+      "walletStatus": "ENABLED",
+      "balance": 2000,
+      "detail": "Bla bla bla",
+      "evomAccountId": 1105,
+      "evomAccountName": "Renato Souza",
+      "evomAccountEmail": "renato@teste.com",
+      "evomAccountPhoneNumber": "+55 41 98100 1222",
+      "evomAccountDocumentNumber": "167.990.111-11",
+      "activeIdentificationMethodId": 1255
+    }
+  ],
+  "agencies": [
+    {
+      "id": 1,
+      "name": "Transit Agency"
+    }
+  ]
 }
-]
-  }
-
