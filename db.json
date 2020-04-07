@@ -1,11 +1,33 @@
 {
+  "unsecured": [
+    {
+      "wallet-info": [
+        {
+          "wYO9xH8W3Cb3MdYyWap5SicDnDm1": [
+            {
+              "identificationHash": "791c4d86-54f8-403f-81e2-7ea77e6411f9",
+              "agencyName": "Carteira Finx",
+              "balance": 10000
+            },
+            {
+              "identificationHash": "2ae92291-2e64-4c62-8815-0e8a57878a48",
+              "agencyName": "SPTrans",
+              "balance": 25000
+            }
+          ]
+        }
+      ]
+    }
+  ],
   "wallets": [
     {
+      "id": "wYO9xH8W3Cb3MdYyWap5SicDnDm1",
       "identificationHash": "791c4d86-54f8-403f-81e2-7ea77e6411f9",
       "agencyName": "Carteira Finx",
       "balance": 10000
     },
     {
+      "id": "wYO9xH8W3Cb3MdYyWap5SicDnDm1",
       "identificationHash": "2ae92291-2e64-4c62-8815-0e8a57878a48",
       "agencyName": "SPTrans",
       "balance": 25000
