@@ -1,28 +1,14 @@
 {
   "wallets": [
     {
-      "createdBy": "admin",
-      "createdDate": "2020-03-19T11:25:36.962210Z",
-      "lastModifiedBy": "system",
-      "lastModifiedDate": "2020-03-19T12:06:02.647989Z",
-      "id": 1205,
-      "walletUuid": "073f7426-5073-445c-ba70-b2d45de40b1a",
-      "walletType": "REGULAR",
-      "walletStatus": "ENABLED",
-      "balance": 2000,
-      "detail": "Bla bla bla",
-      "evomAccountId": 1105,
-      "evomAccountName": "Renato Souza",
-      "evomAccountEmail": "renato@teste.com",
-      "evomAccountPhoneNumber": "+55 41 98100 1222",
-      "evomAccountDocumentNumber": "167.990.111-11",
-      "activeIdentificationMethodId": 1255
-    }
-  ],
-  "agencies": [
+      "identificationHash": "791c4d86-54f8-403f-81e2-7ea77e6411f9",
+      "agencyName": "Carteira Finx",
+      "balance": 10000
+    },
     {
-      "id": 1,
-      "name": "Transit Agency"
-    }
+      "identificationHash": "2ae92291-2e64-4c62-8815-0e8a57878a48",
+      "agencyName": "SPTrans",
+      "balance": 25000
+    },
   ]
 }
